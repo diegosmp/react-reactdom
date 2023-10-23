@@ -1,0 +1,13 @@
+.footer-content {
+    height: 100%;
+    color: #f0f0f0;
+    padding: 1.25rem;
+    background-color: #010101;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.footer-content p>span {
+    color: #2574eb;
+}
